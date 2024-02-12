@@ -1,0 +1,18 @@
+#history-main{
+    margin-top: 40px;
+    text-align: left;
+    width: 400px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px ;
+    font-weight: 400;
+    padding: 0px 12px;
+}
